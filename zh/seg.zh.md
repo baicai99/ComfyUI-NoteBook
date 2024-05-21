@@ -32,11 +32,11 @@
    - [segmentanything](https://github.com/storyicon/comfyui_segment_anything)
 
 2. **segm**  
-   效果次之，能识别目标，但会多识别一些不必要的部分。
+   效果也非常好，但是抠图不如**Impact-Pack + segmentanything**精准，裙子还是有白边。
    - [segm](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 
 3. **Yoloworld ESAM**  
-   效果最差，分割不够精准，容易识别多余部分，不推荐用于此类场景。
+   效果还行。
    - [Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)
 
 ![简单背景测试](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/35bb681b-f647-457c-94c2-b4682eddc4f1)
