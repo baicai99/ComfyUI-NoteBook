@@ -1,4 +1,4 @@
-# ComfyUI-笔记本
+# ComfyUI-笔记本 20240521
 
 ## 总结
 在本次测试中，**Impact-Pack + segmentanything**和**segm**的表现最好，而**Yoloworld ESAM**的效果最差。
