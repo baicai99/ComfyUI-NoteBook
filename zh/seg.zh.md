@@ -58,3 +58,22 @@
    - [Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)
 
 ![半身照测试](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/d67f0559-8bca-4c14-9773-b70cf57b79d1)
+
+## 语义分割测试：胳膊
+
+在大场景小人物的测试中，我们比较了几种不同的语义分割工具的表现，结果如下：
+
+1. **Impact-Pack + segmentanything**  
+   这两者的结合效果最佳，分割精准，无多余分割，适合复杂场景下的小目标识别。
+   - [Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+   - [segmentanything](https://github.com/storyicon/comfyui_segment_anything)
+
+2. **segm**  
+   效果也非常好，但是抠图不如**Impact-Pack + segmentanything**精准，裙子还是有白边。
+   - [segm](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+
+3. **Yoloworld ESAM**  
+   效果还行。
+   - [Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)
+
+![简单背景测试](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/35bb681b-f647-457c-94c2-b4682eddc4f1)
