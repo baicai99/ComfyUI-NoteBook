@@ -75,5 +75,5 @@
 3. **Yoloworld ESAM**  
    效果还行。
    - [Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)
-
-![简单背景测试](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/35bb681b-f647-457c-94c2-b4682eddc4f1)
+     
+![胳膊](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/d3bc41c3-ef8a-4922-ad62-08af65b53d47)
