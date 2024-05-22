@@ -3,7 +3,7 @@
 ## 总结
 在本次测试中，**Impact-Pack + segmentanything**和**segm**的表现最好，而**Yoloworld ESAM**的效果最差。  
 工作流在下方，拖入ComfyUI就可以使用。
-![alt text](<workflow (1).png>)
+![workflow](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/92a66bc6-5d29-45ff-b5db-79de57e317cd)
 
 ## 语义分割测试：超大场景超小人物（复杂背景）
 
