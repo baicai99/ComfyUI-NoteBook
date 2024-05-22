@@ -1,8 +1,9 @@
 # ComfyUI-笔记本 20240522
 
 ## 总结
-在本次测试中，**Impact-Pack + segmentanything**和**Yoloworld ESAM**的表现最好，而**segm**的效果最差。  
-默认使用**Impact-Pack + segmentanything**就好，**segm**只能识别全身，**Yoloworld ESAM**可以作为**Impact-Pack + segmentanything**的补充。
+在本次测试中，  **[Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) + [segmentanything](https://github.com/storyicon/comfyui_segment_anything)**  和  **[Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)**的表现最好，而  **[segm](https://github.com/ltdrdata/ComfyUI-Impact-Pack)**  的效果最差。
+
+默认使用  **[Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) + [segmentanything](https://github.com/storyicon/comfyui_segment_anything)**  就好，  **[segm](https://github.com/ltdrdata/ComfyUI-Impact-Pack)**  只能识别全身，  **[Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)**  可以作为  **[Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) + [segmentanything](https://github.com/storyicon/comfyui_segment_anything)**  的补充。
 
 ## 工作流
 工作流在下方，拖入ComfyUI就可以使用。
@@ -33,7 +34,7 @@
 2. **[segm](https://github.com/ltdrdata/ComfyUI-Impact-Pack)**  
    效果也非常好，但是抠图不如**Impact-Pack + segmentanything**精准，裙子还是有白边。
 
-3. **Yoloworld ESAM**  
+3. **[Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)**  
    效果还行。
 
 ![简单背景测试](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/35bb681b-f647-457c-94c2-b4682eddc4f1)
