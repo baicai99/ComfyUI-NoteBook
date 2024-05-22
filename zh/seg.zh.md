@@ -1,4 +1,4 @@
-# ComfyUI-笔记本 20240521
+# ComfyUI-笔记本 20240522
 
 ## 总结
 在本次测试中，**Impact-Pack + segmentanything**和**Yoloworld ESAM**的表现最好，而**segm**的效果最差。  
@@ -62,9 +62,9 @@
 
 ![半身照测试](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/d67f0559-8bca-4c14-9773-b70cf57b79d1)
 
-## 语义分割测试：胳膊(半身照)
+## 语义分割测试：胳膊(横屏半身照)
 
-在大场景小人物的测试中，我们比较了几种不同的语义分割工具的表现，结果如下：
+在横屏半身照测试中，我们比较了几种不同的语义分割工具的表现，结果如下：
 
 1. **Impact-Pack + segmentanything**  
    这个组合效果依然最佳，图片扣得非常干净。
@@ -83,7 +83,7 @@
 
 ## 语义分割测试：胳膊(全身照)
 
-在大场景小人物的测试中，我们比较了几种不同的语义分割工具的表现，结果如下：
+在全身照的测试中，我们比较了几种不同的语义分割工具的表现，结果如下：
 
 1. **Impact-Pack + segmentanything**  
    这个组合效果依然最佳，图片扣得非常干净。
@@ -98,4 +98,30 @@
    效果不好，会识别多余的物体。
    - [Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)
      
-![胳膊(全身照)](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/7a3eda69-5bf1-4c3e-99eb-af9605f95e66)
+![胳膊(更小的全身照)](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/7a3eda69-5bf1-4c3e-99eb-af9605f95e66)
+
+## 语义分割测试：胳膊(全身照)
+
+在人物更小手臂更小的场景下，我比较了几种不同的语义分割工具的表现，结果如下：
+
+1. **Impact-Pack + segmentanything**  
+   虽然有多余的，但是对比与其他两个也是完美的存在。
+   - [Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+   - [segmentanything](https://github.com/storyicon/comfyui_segment_anything)
+
+2. **segm**  
+   完全不可用。
+   - [segm](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+
+3. **Yoloworld ESAM**  
+   效果不好，直接识别全身了。
+   - [Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)
+     
+![image](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/dda4205e-cb60-4d50-a5b0-66261a515d78)
+
+
+
+
+```git add .```  
+```git commit -m "update seg.zh.md"```  
+```git push```  
