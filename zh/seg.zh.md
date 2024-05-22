@@ -1,7 +1,9 @@
 # ComfyUI-笔记本 20240521
 
 ## 总结
-在本次测试中，**Impact-Pack + segmentanything**和**segm**的表现最好，而**Yoloworld ESAM**的效果最差。
+在本次测试中，**Impact-Pack + segmentanything**和**segm**的表现最好，而**Yoloworld ESAM**的效果最差。  
+工作流在下方，拖入ComfyUI就可以使用。
+![alt text](<workflow (1).png>)
 
 ## 语义分割测试：超大场景超小人物（复杂背景）
 
