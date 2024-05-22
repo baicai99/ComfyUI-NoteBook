@@ -98,4 +98,4 @@
    效果不好，会识别多余的物体。
    - [Yoloworld ESAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)
      
-![胳膊](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/d3bc41c3-ef8a-4922-ad62-08af65b53d47)
+![胳膊(全身照)](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/7a3eda69-5bf1-4c3e-99eb-af9605f95e66)
