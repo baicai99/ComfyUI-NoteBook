@@ -1,12 +1,16 @@
-# 中文
+# 目录
+### 中文
 - [depth](zh/depth.zh.md)
 - [line_art](zh/line_art.zh.md)
 - [seg](zh/seg.zh.md)
 
-# English
+### English
 - [depth](en/depth.zh.md)
 - [line_art](en/line_art.zh.md)
 - [seg](en/seg.zh.md)
+
+# 项目介绍
+这是一个记录各种预处理器以及各种软件插件之类的用法的笔记本。如果你们有更好的，我也希望你们可以一起加入共同编辑。
 
 # ComfyUI-笔记本 20240522
 
