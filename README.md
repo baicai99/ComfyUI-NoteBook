@@ -1,3 +1,13 @@
+# 中文
+- [depth](zh/depth.zh.md)
+- [line_art](zh/line_art.zh.md)
+- [seg](zh/seg.zh.md)
+
+# English
+- [depth](en/depth.zh.md)
+- [line_art](en/line_art.zh.md)
+- [seg](en/seg.zh.md)
+
 # ComfyUI-笔记本 20240522
 
 ## 总结
