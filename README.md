@@ -110,5 +110,5 @@
 
 
 ```git add .```  
-```git commit -m "update seg.zh.md"```  
+```git commit -m "update README.md"```  
 ```git push```  
