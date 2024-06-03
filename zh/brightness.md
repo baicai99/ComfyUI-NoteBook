@@ -16,6 +16,8 @@ brightness的作用是控制光的颜色以及亮度控制，允许用户为灰�
 |---|---|
 |---|---|
 
-```git add .```  
-```git commit -m "update seg.zh.md"```  
-```git push```  
+```
+git add .  
+git commit -m "update seg.zh.md"  
+git push
+```  
