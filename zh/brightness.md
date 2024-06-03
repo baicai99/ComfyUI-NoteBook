@@ -6,6 +6,8 @@ brightness的作用是控制光的颜色以及亮度控制，允许用户为灰�
 
 以下是一些抽象作品以及参数。
 
+<img width="100" src="![00118-1179957003](https://github.com/baicai99/ComfyUI-NoteBook/assets/101706274/9175eb81-7885-439b-ba8b-48c884d2b3da)">
+
 ```git add .```  
 ```git commit -m "update seg.zh.md"```  
 ```git push```  
